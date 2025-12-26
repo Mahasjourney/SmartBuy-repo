@@ -1,3 +1,3 @@
 # SmartBuy
 
-Buy more, Spend Smart
+Shop smart, Buy more
